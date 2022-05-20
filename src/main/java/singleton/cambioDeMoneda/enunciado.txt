@@ -1,0 +1,18 @@
+Crear un repositorio en GitHub y poner la info del link en la plataforma virtual
+
+El ultimo commit deberia ser antes de la clase siguiente
+
+*Se tiene una empresa de Cambio de Moendas que maneja en tipo de cambio de monedas
+
+Boliviano/Dolar/Euro
+
+Existen diferentes lugares donde yo puedo cambiar mi moneda (Banco/Casas de Cambio/Libre Cambistas), pero, todas estas
+obtienen la info. del tipo de cambio de un solo lugar (Singleton)
+
+B <---- 70 Bs. ----> 10 $
+CC < ---- 70 Bs. ----> 10 $
+LC <------ 70Bs. -----> 10 $
+
+B <--- 70bs ----> 10$
+CC <--- 10$ ----> 70bs
+LC <--- 1E ----> 9bs
