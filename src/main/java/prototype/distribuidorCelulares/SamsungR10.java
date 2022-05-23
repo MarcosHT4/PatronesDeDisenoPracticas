@@ -126,7 +126,7 @@ public class SamsungR10 implements ISamsungR10 {
         cloneSam.setTipoDeBateria(this.getTipoDeBateria());
         cloneSam.setVersionAndroid(this.getVersionAndroid());
         cloneSam.setSize(this.getSize());
-        cloneSam.setCantidadDeMemoriasExternas(3);
+        cloneSam.setCantidadDeMemoriasExternas(this.getCantidadDeMemoriasExternas());
 
 
 
