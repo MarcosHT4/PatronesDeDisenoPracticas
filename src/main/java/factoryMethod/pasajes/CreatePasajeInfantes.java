@@ -20,8 +20,8 @@ public class CreatePasajeInfantes extends PasajeCreator {
         Avion avion = new Avion();
 
         avion.setCapacidad(100);
-        avion.setMarca("BOA");
-        avion.setModelo("Boeing 777");
+        avion.setMarca("AmasZonas");
+        avion.setModelo("Boeing 737");
         avion.setNroDeAsientos(150);
 
         PasajeroEspecial pasajero = new PasajeroEspecial();

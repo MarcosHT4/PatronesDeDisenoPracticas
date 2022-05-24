@@ -19,8 +19,8 @@ public class CreatePasajeSolidario extends PasajeCreator {
         Avion avion = new Avion();
 
         avion.setCapacidad(100);
-        avion.setMarca("BOA");
-        avion.setModelo("Boeing 777");
+        avion.setMarca("TAM");
+        avion.setModelo("Boeing 717");
         avion.setNroDeAsientos(150);
 
         Pasajero pasajero = new Pasajero();
