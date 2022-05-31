@@ -1,0 +1,9 @@
+Se tienen 4 casas de importadoras de automoviles (costo, modelo, nroAsientos, tipo). Cada una de estas casa maneja
+su lista de Automoviles en diferentes tipos de objetos.
+
+importadora1 ===> Array
+importadora2 ===> List
+importadora3 ===> Vector
+importadora4 ===> Stack
+
+La aduana requiere guardar los objetos automoviles en un objeto de tipo Mapa.
