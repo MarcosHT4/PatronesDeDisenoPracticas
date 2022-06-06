@@ -7,6 +7,7 @@ public class VersionadorBaseDeDatos {
     public void setBackup(BaseDeDatos state) {
 
         this.state = state;
+        //Si hay problemas, clonar, ejemplo: this.state.setPersonas(state.getPersonas())
 
     }
 
